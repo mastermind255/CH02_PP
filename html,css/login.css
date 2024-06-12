@@ -1,0 +1,136 @@
+body{
+    background-image: linear-gradient(to left, #dcc2fc,#94cbfc);
+}
+div{
+background-color: white;
+height: 700px;
+width:400px;
+margin: auto;
+border-radius: 25px;
+}
+h1{
+padding:30px 120px;
+}
+#a{
+    font-size: 20px;
+    padding: 15px 60px;
+    margin-left: 40px;
+    border-radius: 50px;
+    background-color: blue;
+    cursor: pointer;
+}
+#b{
+    font-size: 20px;
+    padding: 15px 60px;
+    margin-left: -40px;
+    border-radius: 50px;
+    background-color: rgb(198, 221, 238);
+    cursor: pointer;
+}
+#c{
+    font-size: 20px;
+    padding: 10px 180px 10px 20px;
+    margin-top:100px;
+    margin-left: 35px;
+    border-radius: 50px;
+    background-color: rgb(235, 237, 213); 
+    
+}
+#d{
+    font-size: 20px;
+    padding: 10px 220px 10px 20px;
+    margin-top:70px;
+    margin-left: 35px;
+    border-radius: 50px;
+    background-color: rgb(240, 234, 198);
+}body{
+    background-image: linear-gradient(to left, #dcc2fc,#94cbfc);
+}
+div{
+background-color: white;
+height: 700px;
+width:400px;
+margin: auto;
+border-radius: 25px;
+}
+h1{
+padding:30px 120px;
+}
+#a{
+    font-size: 20px;
+    padding: 15px 60px;
+    margin-left: 40px;
+    border-radius: 50px;
+    background-color: blue;
+    cursor: pointer;
+}
+#b{
+    font-size: 20px;
+    padding: 15px 60px;
+    margin-left: -40px;
+    border-radius: 50px;
+    background-color: rgb(198, 221, 238);
+    cursor: pointer;
+}
+#c{
+    font-size: 20px;
+    padding: 10px 180px 10px 20px;
+    margin-top:100px;
+    margin-left: 35px;
+    border-radius: 50px;
+    background-color: rgb(235, 237, 213); 
+    
+}
+#d{
+    font-size: 20px;
+    padding: 10px 220px 10px 20px;
+    margin-top:70px;
+    margin-left: 35px;
+    border-radius: 50px;
+    background-color: rgb(240, 234, 198);
+}
+h3{
+    margin-left: 35px;
+    color: blue;
+    font-size: 16px;
+}
+#e{
+    font-size: 20px;
+    padding: 10px 140px;
+    margin-top:40px;
+    margin-left: 35px;
+    border-radius: 50px;
+    background-color: rgb(36, 14, 232);
+}
+a{
+    color: blue;
+    font-size: 16px;
+}
+h4{
+    margin-left: 100px;
+    color: rgb(3, 3, 3);
+    font-size: 16px;
+}
+
+h3{
+    margin-left: 35px;
+    color: blue;
+    font-size: 16px;
+}
+#e{
+    font-size: 20px;
+    padding: 10px 140px;
+    margin-top:40px;
+    margin-left: 35px;
+    border-radius: 50px;
+    background-color: rgb(36, 14, 232);
+}
+a{
+    color: blue;
+    font-size: 16px;
+}
+h4{
+    margin-left: 100px;
+    color: rgb(3, 3, 3);
+    font-size: 16px;
+}
